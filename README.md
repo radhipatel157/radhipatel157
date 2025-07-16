@@ -49,21 +49,18 @@
 
 ## 🚀 Top Projects
 
-### 🔍 [FIN-EXTRACT](https://github.com/radhipatel157/fin-extract)
-> A financial data extraction tool using Google Gemini AI + Screener, enabling <30s financial analysis from PDFs.  
-*Stack:* Streamlit, Web Scraping, Gemini AI, Python
 
-### 🌍 [Explora](https://github.com/radhipatel157/travel-story-app)
-> MERN Travel Story App to journal and share experiences with secure authentication and filters.  
-*Stack:* ReactJS, MongoDB, ExpressJS, Node.js
+*🧠 [Walmart-Supplychain-Optimizer](https://github.com/radhipatel157/Walmart-Supplychain-Optimizer)*  
+Python • Pandas • NetworkX • Flask • FastAPI • React.js • NumPy  
+> AI-powered decision engine designed to eliminate inefficiencies, fragmentation, and cost leakage within Walmart’s retail supply chain — with a specific focus on last-mile delivery, return bundling, and dynamic fulfillment node selection.
 
-### 😃 [Emotion Recognition System](https://github.com/radhipatel157/emotion-recognition-system)
-> A hybrid LSTM + GAN model for accurate emotion detection from labeled datasets.  
-*Stack:* TensorFlow, Keras, Python
+*🌍 [AWS-Based Real-Time Fraud Detection System](https://github.com/radhipatel157/AWS-Based-Real-Time-Fraud-Detection-System)*  
+AWS SDK (boto3) • AWS Fraud Detector • Stateless Microservices • Encrypted Data Transfer  
+> A real-time fraud detection system built with Python, AWS SDK (boto3), and Amazon Fraud Detector, capable of analyzing over 10,000 transactions daily with sub-300ms response times. It uses enriched metadata (geolocation, IP, device info) to boost detection accuracy by 35%, and features a secure, stateless microservices architecture with IAM-control.
 
-### 🏫 [Continuous Evaluation System](https://github.com/radhipatel157/continuous-evaluation-system)
-> C++ based student mark management system with automated report generation for 1000+ records.  
-*Stack:* OOP, C++
+*🤖 [AI-Driven Lead Qualification & Notification Agent](https://github.com/radhipatel157/AI-Driven-Lead-Qualification-and-Notification-Agent)*  
+n8n • Gemini • Gmail API  
+> An AI-driven lead qualification and notification system that automates scoring, classification, and routing of 500+ leads weekly using n8n workflows, Google Gemini AI, and the Gmail API. This solution reduces manual triage by 80%, accelerates response times by 5×, and sends real-time personalized notifications to the right stakeholders—making lead.
 
 ---
 
